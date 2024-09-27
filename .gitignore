@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# uploaded files
+/uploads
+
+# misc
+.env
+.vercel
